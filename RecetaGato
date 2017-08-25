@@ -1,0 +1,17 @@
+#RECETA PARA JUGAR GATO
+
+*Son necesarios dos jugadores
+
+*Trazar dos líneas verticales paralelas
+
+*Trazar sobre las líneas verticales, dos líneas horizontales paralelas. Quedará un tablero con 9 casillas
+
+*Se usaran dos figuras **“0” y “X”**
+
+*Cada jugador usara una figura
+
+*Cada jugador colocara en una casilla vacía su figura que le corresponde
+
+*El objetivo es unir tres figuras  de manera horizontal, vertical o diagonal
+
+*Gana el jugador que logre colocar tres figuras de manera horizontal, vertical o diagonal
